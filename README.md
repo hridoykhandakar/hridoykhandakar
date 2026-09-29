@@ -1,264 +1,297 @@
-# Hi, I'm Hridoy Khandakar 👋
+# 👋 Hey, I'm Hridoy Khandakar
 
-### Flutter Developer → Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=650&lines=Flutter+Developer+%7C+Software+Engineer;I+build+solutions%2C+not+just+features.;I+do+the+hard+thinking+so+users+have+an+easy+experience.;Currently+exploring+Native+%7C+Backend+%7C+Web" alt="Typing SVG" />
 
-I build software with a strong focus on **engineering principles, user experience, and maintainability**.
+<p align="left">
+  <a href="https://hridoykhandakar.me">
+    <img src="https://img.shields.io/badge/🌐_Website-hridoykhandakar.me-161B22?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/hridoykhandakar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:iamkmhridoy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I don't just think about *how to make something work* — I think about **why it should work that way, how it can scale, and how the end user can use it with as little friction as possible.**
+---
+
+## 🧠 How I Think
+
+```text
+                    ┌──────────────────────┐
+                    │      Real Problem    │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │  Understand the User │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │   Think Before Code  │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Simple User Experience│
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Maintainable System  │
+                    └──────────────────────┘
+```
 
 > **I do the hard thinking so the user can have an easy experience.**
 
----
+I'm a **Flutter Developer** who enjoys solving problems through engineering rather than simply implementing requirements.
 
-## 🧑‍💻 About Me
+I care about:
 
-I'm a **Flutter Developer** interested in building reliable, maintainable, and user-focused software.
-
-My current focus is Flutter and its ecosystem, while gradually expanding toward **full software engineering**.
-
-I enjoy:
-
-* Designing solutions before writing code
-* Understanding the underlying engineering principles
-* Building simple interfaces for complex problems
-* Thinking about architecture and maintainability
-* Improving developer experience and code quality
-* Learning how systems work beyond the framework
-* Using technology as a tool to solve real-world problems
-
-I'm especially interested in the intersection of **product thinking + software engineering**.
+* 🧩 Understanding the problem before writing code
+* 🏗️ Architecture and maintainability
+* 👤 Designing around the end user
+* ⚡ Performance and reliability
+* 🧪 Testable and predictable systems
+* 🔍 Understanding *why* things work
+* 📈 Building software that can evolve
 
 ---
 
-## 🛠️ Current Stack
+# 🚀 What I'm Building Toward
+
+I started with **Flutter**, but my goal is bigger than one framework.
+
+```text
+                    SOFTWARE ENGINEERING
+                           │
+        ┌──────────────────┼──────────────────┐
+        ↓                  ↓                  ↓
+     MOBILE              WEB               BACKEND
+        │                  │                  │
+   Flutter            JavaScript          Python
+        │              TypeScript             │
+   Android              React               APIs
+        │              Next.js            Databases
+      iOS               Astro              Systems
+        │               Svelte
+        └──────────────────┬─────────────────┘
+                           ↓
+                    SYSTEM DESIGN
+                           ↓
+                    AI / INTELLIGENT
+                       SOFTWARE
+```
+
+### Currently exploring
+
+**📱 Mobile**
+
+`Flutter` `Dart` `Android` `iOS` `Native Development`
+
+**⚙️ Backend**
+
+`Python` `REST APIs` `Databases` `Authentication` `System Design`
+
+**🌐 Web**
+
+`JavaScript` `TypeScript` `React` `Next.js` `Astro` `Svelte`
+
+**🧠 Engineering**
+
+`DSA` `OOP` `SOLID` `Design Patterns` `Architecture` `Networking` `OS`
+
+**🤖 Future**
+
+`AI` `LLMs` `RAG` `AI Agents` `Intelligent Products`
+
+---
+
+# 🛠️ Tech I Work With
 
 ### Mobile
 
-* Flutter
-* Dart
-* Android
-* iOS
-* Flutter Architecture & State Management
-* REST APIs
-* Local Storage
-* Testing
-
-### Software Engineering
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* SOLID Principles
-* Design Patterns
-* Clean Architecture
-* System Design
-* Databases
-* Networking
-* Operating Systems
-* Git & GitHub
-
-### Backend
-
-Currently expanding into:
-
-* Python
-* Backend Architecture
-* REST APIs
-* Databases
-* Authentication & Authorization
-* Distributed Systems
-* Cloud & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift" />
+</p>
 
 ### Web
 
-Learning and exploring:
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,svelte" />
+</p>
 
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* React Native
-* Astro
-* Svelte / SvelteKit
+### Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase,sqlite,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma" />
+</p>
 
 ---
 
-## 🚀 What I'm Working Toward
+# 📊 GitHub Activity
 
-My long-term goal is to become a **well-rounded Software Engineer** who can understand and build systems across the stack.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hridoykhandakar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoykhandakar&theme=github-dark-blue&hide_border=true" height="180"/>
+</p>
 
-My learning direction:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoykhandakar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+# 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridoykhandakar&theme=github-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+# 🧩 Projects
+
+I prefer building projects that teach me something beyond a framework.
+
+| Project            | What I'm Exploring                        |
+| ------------------ | ----------------------------------------- |
+| 📱 Flutter Apps    | Architecture, state management, APIs & UX |
+| 🏪 SaaS Products   | Product thinking, backend & databases     |
+| ⚙️ Developer Tools | Automation & engineering workflows        |
+| 🌐 Full-Stack Apps | Frontend + backend architecture           |
+| 🤖 AI Products     | RAG, LLMs & intelligent systems           |
+
+> 🚧 More projects are being built and documented.
+
+---
+
+# 🧭 My Engineering Roadmap
 
 ```text
-Flutter
-   ↓
-Mobile Engineering
-   ↓
-Native Android + iOS
-   ↓
-Software Engineering Fundamentals
-   ↓
-Python + Backend Engineering
-   ↓
-Databases + Networking + OS
-   ↓
-JavaScript / TypeScript
-   ↓
-Modern Web Development
-   ↓
+                    ┌─────────────────┐
+                    │    Flutter     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Mobile Engineer │
+                    └────────┬────────┘
+                             ↓
+              ┌──────────────┴──────────────┐
+              ↓                             ↓
+       Native Android                  Native iOS
+              │                             │
+              └──────────────┬──────────────┘
+                             ↓
+                   Software Fundamentals
+                             ↓
+                  ┌──────────┴──────────┐
+                  ↓                     ↓
+              Backend                 Web
+                  │                     │
+               Python              JS / TS
+                  │                     │
+              Databases        React / Next / etc.
+                  └──────────┬──────────┘
+                             ↓
+                       System Design
+                             ↓
+                       AI Engineering
+```
+
+---
+
+# 💭 Engineering > Frameworks
+
+Frameworks change.
+
+Languages evolve.
+
+Libraries disappear.
+
+But the fundamentals remain.
+
+That's why I'm spending time understanding:
+
+```text
+Data Structures
+      +
+Algorithms
+      +
+Operating Systems
+      +
+Networking
+      +
+Databases
+      +
+Architecture
+      +
 System Design
-   ↓
-AI / Intelligent Software Systems
+      +
+Product Thinking
 ```
 
-I'm not trying to learn frameworks just to collect technologies.
+My goal isn't to become someone who knows **every framework**.
 
-I'm trying to understand the **engineering principles underneath them**.
-
----
-
-## 🧠 Engineering Philosophy
-
-### Solve the problem, not just the task.
-
-Before writing code, I like to think about:
-
-```text
-What problem are we solving?
-        ↓
-Who is experiencing the problem?
-        ↓
-What is the simplest useful solution?
-        ↓
-What trade-offs are we making?
-        ↓
-How should the system be structured?
-        ↓
-How will it behave as it grows?
-        ↓
-How can the user experience remain simple?
-```
-
-Good software isn't only about clever code.
-
-It's about making **complex systems feel simple to the people using them.**
+It's to become someone who can **learn the right technology and build the right solution**.
 
 ---
 
-## 📱 Flutter
+# 🎯 What I Want to Build
 
-Flutter is currently my primary development ecosystem.
+Eventually, I want to work on software where:
 
-I'm interested in going beyond UI development and understanding the complete mobile engineering stack:
+**Complex engineering → Simple experience**
 
-* Application architecture
-* State management
-* Dependency management
-* Networking
-* Local persistence
-* Authentication
-* Background processing
-* Notifications
-* Testing
-* Performance
-* Native platform integration
-* Android & iOS internals
+Especially interested in:
 
-I want to understand **what happens underneath Flutter**, not only how to use its widgets.
-
----
-
-## 🌐 Beyond Flutter
-
-I'm gradually expanding my knowledge across the software stack.
-
-### Mobile
-
-**Flutter → Android → iOS → Native Development**
-
-### Backend
-
-**Python → APIs → Databases → Distributed Systems**
-
-### Web
-
-**JavaScript → TypeScript → React → Next.js → Astro → Svelte**
-
-### Engineering
-
-**DSA → OS → Networking → Databases → Architecture → System Design**
-
-The goal is to become capable of moving between technologies based on the **problem**, rather than being limited by a particular framework.
-
----
-
-## 🔭 Long-Term Interests
-
-I'm particularly interested in:
-
-* Software architecture
-* Developer tools
-* Product engineering
-* AI-powered applications
-* Business automation
-* Customer-support systems
-* Retrieval-Augmented Generation (RAG)
-* LLM applications
-* Data-driven products
-* Scalable backend systems
-
-Eventually, I want to build software where **AI is integrated into useful products**, rather than using AI simply because it is trendy.
-
----
-
-## 📂 Projects
-
-I prefer projects that solve a real problem or help me understand an engineering concept deeply.
-
-Some areas I'm exploring:
-
-* 📱 Mobile applications
-* 🧩 Reusable Flutter architecture
-* 🌐 Full-stack applications
-* ⚙️ Backend systems
-* 🗄️ Data & database systems
-* 🤖 AI-powered applications
+* 🤖 AI-powered products
+* 🧠 Business intelligence systems
+* 💬 Customer-support AI
+* 🔎 RAG & knowledge systems
+* ⚙️ Business automation
+* 📱 Intelligent mobile applications
+* 🌐 Scalable SaaS products
 * 🛠️ Developer tools
 
-> More projects will be added as I build and open-source them.
+---
+
+# 🌎 Let's Connect
+
+<p align="center">
+
+<a href="https://hridoykhandakar.me">
+<img src="https://img.shields.io/badge/Website-hridoykhandakar.me-161B22?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hridoykhandakar/">
+<img src="https://img.shields.io/badge/LinkedIn-Hridoy_Khandakar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:iamkmhridoy@gmail.com">
+<img src="https://img.shields.io/badge/Email-iamkmhridoy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 📚 Currently Learning
+<p align="center">
+  <i>Building today. Understanding deeply. Engineering for tomorrow.</i>
+</p>
 
-```text
-Flutter & Mobile Engineering
-        +
-Native Android & iOS
-        +
-Software Engineering Fundamentals
-        +
-Python & Backend Engineering
-        +
-JavaScript / TypeScript
-        +
-Modern Web Frameworks
-        +
-System Design
-```
-
----
-
-## 🤝 Let's Connect
-
-If you're interested in **software engineering, Flutter, product development, architecture, or building useful technology**, feel free to connect.
-
-* 🌐 **Website:** [hridoykhandakar.me](https://hridoykhandakar.me)
-* 💼 **LinkedIn:** [linkedin.com/in/hridoykhandakar](https://www.linkedin.com/in/hridoykhandakar/)
-* 📧 **Email:** [iamkmhridoy@gmail.com](mailto:iamkmhridoy@gmail.com)
-
----
-
-### 💭 One Principle I Try to Follow
-
-> **Complexity belongs in the engineering.
-> Simplicity belongs in the experience.**
+<p align="center">
+  <sub>© Hridoy Khandakar</sub>
+</p>
