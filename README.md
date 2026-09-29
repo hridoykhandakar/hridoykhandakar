@@ -17,7 +17,7 @@
 I'm a **Flutter developer** who loves crafting solutions guided by solid **engineering principles**. I always keep the **end user** in mind — I do the hard thinking up front so using the app feels effortless for them.
 
 - 🔭 Currently building with **Flutter & its ecosystem**
-- 🧠 Deeply focused on **clean architecture**, **scalability**, and **user experience**
+- 🧠 Focused on **clean architecture**, **scalability**, and **user experience**
 - 🌱 Learning: **Native Android & iOS**, **Backend Engineering**, and **Overall Software Engineering**
 - 💬 Ask me about: **Flutter, Dart, app architecture, UX-driven development**
 - 📫 Reach me: **iamkmhridoy@gmail.com**
@@ -54,6 +54,22 @@ I'm a **Flutter developer** who loves crafting solutions guided by solid **engin
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Contribution Journey
+
+<p align="center">
+  <b>Contributing on GitHub since <code>Jul 22, 2015</code></b> — nearly a decade of shipping, learning, and improving. 🚀
+</p>
+
+<p align="center">
+  <b>🔥 Current Streak:</b> active since <code>Sep 29</code> — showing up and staying consistent.
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
